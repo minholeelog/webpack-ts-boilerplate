@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "sourceMap": true
+  }
+}
